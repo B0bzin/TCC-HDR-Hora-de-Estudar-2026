@@ -1,0 +1,32 @@
+# ==========================================================
+#  .gitignore do tema "Hora de Estudar" (epa)
+#  Impede que arquivos de sistema, de editor ou sensíveis
+#  sejam enviados ao repositório.
+# ==========================================================
+
+# Sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Dependências (caso venham a ser usadas no futuro)
+node_modules/
+vendor/
+
+# Proteção extra: arquivos sensíveis nunca devem entrar no tema
+wp-config.php
+.env
+*.sql
+*.sqlite
