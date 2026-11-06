@@ -10,7 +10,7 @@ Orientador: Prof. Caludio Kleina
 Corientadora: Prof.Paula Stopa
 
 
-Para abrir o site em rede local devemos utilizar, o Wampsever https://wampserver.aviatechno.net/ e o Wordpress!
+Para abrir o site em rede local devemos utilizar, o Wampsever https://wampserver.aviatechno.net/ e o Wordpress https://br.wordpress.org/download/ !!!!!!!!!!!!!
 
 Jogar todos os arquivos na pasta www do wampsever.
 
