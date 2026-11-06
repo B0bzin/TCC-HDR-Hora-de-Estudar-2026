@@ -8,3 +8,12 @@ A equipe:
 Aluno Eduardo D.Chinasso
 Orientador: Prof. Caludio Kleina
 Corientadora: Prof.Paula Stopa
+
+
+Para abrir o site em rede local devemos utilizar, o Wampsever https://wampserver.aviatechno.net/ e o Wordpress!
+
+Jogar todos os arquivos na pasta www do wampsever.
+
+E dentro do navegador usar http://localhost assim http://localhost/a pasta denominada a sua escolha com projeto
+
+FIm!
